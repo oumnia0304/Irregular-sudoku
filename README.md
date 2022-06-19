@@ -5,4 +5,4 @@ This is a final work for the subject Knowledge Representation
 # How to solve this problem ? 
 We will use " SWI-PROLOG" which offers a comprehensive free Prolog environment. Since its start in 1987, SWI-Prolog development has been driven by the needs of real world applications. it's widely used in research and education as well as commercial applications. 
 
-![alt text](./sudoku image.png)
+![alt text](./sudoku_image.png)
